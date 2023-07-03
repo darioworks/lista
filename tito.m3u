@@ -1,0 +1,516 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="1 Latina.pe" tvg-name="Latina" tvg-logo="https://i.imgur.com/8Hvk59N.png" group-title="Tv Perú", Latina | PE
+https://live-latinav2-mdstrm.secure.footprint.net/live-stream-mp/d1aden84nxx8u4/3330943a0248407faa8c6f5f5c874fa4/5ce7109c7398b977dc0744cd/index.m3u8
+
+#EXTINF:-1 tvg-id="2 PanamericanaTV.pe" tvg-name="Panamericana" tvg-logo="https://i2.paste.pics/967fc9c451334a960cb23ee0482c77bc.png" group-title="Tv Perú", Panamericana | PE
+https://cdnh71.iblups.com/hls/ptv2.m3u8?PlaylistM3UCL
+
+#EXTINF:-1 tvg-id="3 tvperu.gob.pe" tvg-name="Tvpe" tvg-logo="https://i.imgur.com/8Hvk59N.png" group-title="Tv Perú", Tvpe | PE
+https://d6vls0u25arys.cloudfront.net/out/v1/777b4d4cc0984575a7d14f6ee57dbcaf/index_3.m3u8
+
+#EXTINF:-1 tvg-id="4 tvperu.gob.pe" tvg-name="Tvpe Noticias" tvg-logo="https://i.imgur.com/8Hvk59N.png" group-title="Tv Perú", Tvpe Noticias | PE
+https://d10tjjjvbn1fcu.cloudfront.net/out/v1/902c1a0395264f269f1160efa00660e4/index_3.m3u8
+
+#EXTINF:-1 tvg-id="5 ATV.pe" tvg-name="ATV.pe" tvg-logo="https://i.imgur.com/eUzYZfg.png" group-title="Tv Perú", ATV | PE
+https://d22ast2s6i1kcc.cloudfront.net/hls/atv_480.m3u8
+
+#EXTINF:-1 tvg-id="6 ATVSur.pe" tvg-name="ATVSur.pe" tvg-logo="https://i.imgur.com/LnyVa5H.png" group-title="Tv Perú", ATV Sur | PE
+https://d3txgn7b0ej9cy.cloudfront.net/atv/8bcf2b35a573163055a95e18c0c35226.sdp/playlist.m3u8
+
+#EXTINF:-1 tvg-id="7 ATVPlus.pe" tvg-name="ATVPlus.pe" tvg-logo="https://i.imgur.com/fY9256H.png" group-title="Tv Perú", ATV+ | PE
+https://d22ast2s6i1kcc.cloudfront.net/hls/atv2_480.m3u8
+
+#EXTINF:-1 tvg-id="8 exitosanoticias.pe" tvg-name="Exitosa" tvg-logo="https://i.imgur.com/pu0BSB7.png" group-title="Tv Perú", Exitosa | PE
+https://cpliv3.onliv3.com:19360/exitosatv/exitosatv.m3u8
+
+#EXTINF:-1 tvg-id="9 autenticatv.pe" tvg-name="Autentica TV" tvg-logo="https://i2.paste.pics/0eced46643f53066ae90b546061ced0a.png" group-title="Tv Perú", Autentica TV | PE
+https://live.obslivestream.com/autenticatvmux/index.m3u8?PlaylistM3UCL
+
+#EXTINF:-1 tvg-id="10 antarestvradio" tvg-name="Antares TV" tvg-logo="https://lh3.googleusercontent.com/-GXO0Icql4EQ/XoKCsLIBYYI/AAAAAAAAxU8/orolaAsdhtcwmmCf7538H7VopRGVo2wbwCK8BGAsYHg/s0/2020-03-30.png" group-title="Tv Perú", Antares TV | PE
+https://5c3fb01839654.streamlock.net:1963/iptvantares/liveantarestv/playlist.m3u8?PlaylistM3UCL
+
+#EXTINF:-1 tvg-id="11 Doble C Television" tvg-name="Doble C Television" tvg-logo="https://i.imgur.com/2zCD4TB.png" group-title="Tv Perú", Doble C Televisión | PE
+https://7.innovatestream.pe:19360/cctvchupaca/cctvchupaca.m3u8
+
+#EXTINF:-1 tvg-id="12 Onda Digital" tvg-name="Onda Digital" tvg-logo="https://i.imgur.com/3R2emx7.jpg" group-title="Tv Perú", Onda Digital | PE
+https://tv.ondadigital.pe:1936/ondatv2/ondatv2/playlist.m3u8
+
+#EXTINF:-1 tvg-id="13 RegionTVCallao.pe" tvg-name="Region TV Callao" tvg-logo="https://i.imgur.com/I4grcqk.png" group-title="Noticias", Región TV  | Noticias
+https://servilive.com:3757/live/regiontvlive.m3u8
+
+#EXTINF:-1 tvg-id="14 DW Español" tvg-name="DW Español" tvg-logo="https://i.imgur.com/A1xzjOI.png" group-title="Noticias", DW Español | Noticias
+https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
+
+#EXTINF:-1 tvg-id="15 France24Espanol.fr" tvg-name="France 24 Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8a/France24.png" group-title="Noticias", France 24 Español | Noticias
+https://ythls.onrender.com/channel/UCUdOoVWuWmgo1wByzcsyKDQ.m3u8
+
+#EXTINF:-1 tvg-id="00 euronews.com" tvg-name="euronews" tvg-logo="xxxxxx" group-title="Noticias", euronews | Noticias
+https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/euronews-espaol/9a14f114-a245-47b7-ad65-ff20b5f17cee/0.m3u8
+
+#EXTINF:-1 tvg-id="00 RT" tvg-name="RT" tvg-logo="xxxxxx" group-title="Noticias", RT | Noticias
+https://rt-esp.rttv.com/live/rtesp/playlist_800Kb.m3u8
+
+#EXTINF:-1 tvg-id="00 Televisa" tvg-name="Televisa" tvg-logo="xxxxxx" group-title="Noticias", Televisa | Noticias
+https://channel04-notusa.akamaized.net/hls/live/2029754/event01/index_4.m3u8
+
+#EXTINF:-1 tvg-id="16 seotv4peliculas.bo" tvg-name="seotv4peliculas" tvg-logo="https://i.imgur.com/aTcJ5p3.png" group-title="Movies", SEO TV 4 Películas | Movies
+https://live.seo.tv.bo/live/4SEO.m3u8
+
+#EXTINF:-1 tvg-id="17 wowtv.sv" tvg-name="wowtv" tvg-logo="https://i.imgur.com/yk46NxC.png" group-title="Movies", WOW TV | Movies
+https://cdn.elsalvadordigital.com:1936/wowtv/smil:wowtv.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="18 ExtremaTV.cr" tvg-name="Extrema TV" tvg-logo="http://chileiptv.cl/img/logos/file_1528340962.jpg" group-title="Movies", ExtremaTv | Movies
+http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
+
+#EXTINF:-1 tvg-id="19 RTVTotalYurimaguas.pe" tvg-name="RTV Total Yurimaguas" tvg-logo="https://i.imgur.com/f8XvDQs.png" group-title="Movies", RTV Total | Movies
+https://7.innovatestream.pe:19360/rtvtotal/rtvtotal.m3u8
+
+#EXTINF:-1 tvg-id="20 OK TeVe" tvg-name="OK TeVe" tvg-logo="https://i2.paste.pics/13a1cbfd1b00f4e4582a523c9eb3d3b2.png" group-title="Movies", OK TeVe | Movies
+https://stream.plixitv.live/oktv/oktv/playlist.m3u8?PlaylistM3UCL
+
+#EXTINF:-1 tvg-id="21 Andes Television" tvg-name="Andes Television" tvg-logo="https://i.imgur.com/CsW4Op8.png" group-title="Movies", Andes Televisión | Movies
+https://stmv1.voxhdnet.com/tvsicuani/tvsicuani/playlist.m3u8
+
+#EXTINF:-1 tvg-id="22 Bella Asuncion" tvg-name="Bella Asuncion" tvg-logo="https://i.imgur.com/H69eLFW.png" group-title="Movies", Bella Asuncion TV | Movies
+https://tvdatta.com:3602/stream/play.m3u8
+
+#EXTINF:-1 tvg-id="23 Planeta TV" tvg-name="Planeta TV" tvg-logo="https://i2.paste.pics/4075185fbbf2ba30f8739d15c9e56298.png" group-title="Movies", Planeta TV | Movies
+https://live.obslivestream.com/planetatv/index.m3u8?PlaylistM3UCL
+
+#EXTINF:-1 tvg-id="24 Central TV Chosica" tvg-name="Central TV Chosica" tvg-logo="https://lh3.googleusercontent.com/-RYmmtKCcnsg/XoKDWBIosrI/AAAAAAAAxVM/VtTI9I3CvW4yG16vrFcn_DVaTi1QPAKGwCK8BGAsYHg/s0/2020-03-30.png" group-title="Movies", Central TV Chosica | Movies
+http://cdn2.ujjina.com:1935/iptvcentraltv/livecentraltvtv/playlist.m3u8?PlaylistM3UCL
+
+#EXTINF:-1 tvg-id="25 Nor Selva RTV" tvg-name="Nor Selva RTV" tvg-logo="https://i.imgur.com/87ObrJO.png" group-title="Movies", Nor Selva RTV | Movies
+https://live.obslivestream.com/norselvatv/index.m3u8
+
+#EXTINF:-1 tvg-id="26 PlanetaTVMovie.cl" tvg-name="Planeta TV Movie" tvg-logo="https://i.imgur.com/ZjIgPmV.png" group-title="Movies", PlanetaTV Movie | Movies
+https://scl.edge.grupoz.cl/movie/live/playlist.m3u8
+
+#EXTINF:-1 tvg-id="27 Atrescine.es" tvg-name="Atrescine" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Atrescine_logo.svg/512px-Atrescine_logo.svg.png" group-title="Movies", A3Cine | Movies
+https://live.atresmediainternacional.com/ATRESMEDIA/a3cine-index.m3u8
+
+#EXTINF:-1 tvg-id="28 CineSony.us" tvg-name="Cine Sony" tvg-logo="https://i.imgur.com/bZWoDTg.png" group-title="Movies", Cine Sony | Movies
+https://cdn.klowdtv.net/803B48A/n1.klowdtv.net/live1/cine_720p/playlist.m3u8
+
+#EXTINF:-1 tvg-id="29 CineSureno.us" tvg-name="Cine Sureno" tvg-logo="https://i.imgur.com/gQimt9G.png" group-title="Movies", Cine Sureño | Movies
+https://olympusamagi.pc.cdn.bitgravity.com/CineSureno-roku/master.m3u8
+
+#EXTINF:-1 tvg-id="30 CinemaPlus.co" tvg-name="Cinema Plus" tvg-logo="https://i.imgur.com/ExZeBRf.png" group-title="Movies", Cinema + | Movies
+https://byecableiptvnew3.ddns.net/ENVIVOCINEMA/index.m3u8
+
+#EXTINF:-1 tvg-id="31 DiscoverFilm.uk" tvg-name="Discover Film" tvg-logo="https://i.imgur.com/oMnpsQ5.png" group-title="Movies", Discover Film | Movies
+https://discoverfilm-discoverfilm-1-nl.samsung.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="32 EvaRetro.cl" tvg-name="Eva Retro" tvg-logo="https://i.imgur.com/Cwy0zcq.png" group-title="Movies", Eva Retro | Movies
+https://stmv2.zcasthn.com.br/evaretro/evaretro/playlist.m3u8
+
+#EXTINF:-1 tvg-id="33 MovieFe.co" tvg-name="Movie Fe" tvg-logo="https://i.imgur.com/FqHLJmN.png" group-title="Movies", Movie Fe | Movies
+https://vcp.myplaytv.com/moviefe/ngrp:moviefe_all/playlist.m3u8
+
+#EXTINF:-1 tvg-id="34 MyTimeMovieNetworkMexico.mx" tvg-name="My Time Movie Network Mexico" tvg-logo="https://i.imgur.com/pw4NZK1.png" group-title="Movies", MyTime movie network Mexico | Movies
+https://appletree-mytime-samsungmexico.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="35 MyTimeMovieNetworkSpain.es" tvg-name="My Time Movie Network Spain" tvg-logo="https://i.imgur.com/pw4NZK1.png" group-title="Movies", MyTime movie network Spain | Movies
+https://appletree-mytimespain-rakuten.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="36 NextHD.py" tvg-name="Nex tHD" tvg-logo="https://i.imgur.com/c2rF3SS.png" group-title="Movies;Music", Next HD | Movies
+https://live.enhdtv.com:19360/nexthd/nexthd.m3u8
+
+#EXTINF:-1 tvg-id="37 RakutenTVActionMoviesSpain.es" tvg-name="Rakuten TV Action Movies Spain" tvg-logo="https://i.imgur.com/uMcwx2p.jpg" group-title="Movies", Rakuten Action Movies | Movies
+https://rakuten-actionmovies-2-es.samsung.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="38 RakutenTVComedyMoviesSpain.es" tvg-name="Rakuten TVC omedy Movies Spain" tvg-logo="https://i.imgur.com/H08jcJi.png" group-title="Movies", Rakuten Comedy Movies | Movies
+https://rakuten-comedymovies-2-es.samsung.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="39 RakutenTVRakutenStoriesFinland.fi" tvg-name="Rakuten TV Rakuten Stories Finland" tvg-logo="https://i.imgur.com/1Nj2RPk.png" group-title="Movies", Rakuten TV Rakuten Stories | Movies
+https://rakuten-spotlight-12-eu.rakuten.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="40 XtremaAccion.ar" tvg-name="Xtrema Accion" tvg-logo="https://i.imgur.com/z5NwizH.png" group-title="Movies", Xtrema Cine Acción | Movies
+https://stmv1.cnarlatam.com/cineaccion/cineaccion/playlist.m3u8
+
+#EXTINF:-1 tvg-id="41 XtremaDrama.ar" tvg-name="Xtrema Drama" tvg-logo="https://i.imgur.com/lkQBPmN.png" group-title="Movies", Xtrema Cine Drama | Movies
+https://stmv1.cnarlatam.com/cinedrama/cinedrama/playlist.m3u8
+
+#EXTINF:-1 tvg-id="42 XtremaFamily.ar" tvg-name="Xtrema Family" tvg-logo="https://i.imgur.com/PohVKAP.png" group-title="Family;Movies", Xtrema Cine | Movies
+https://stmv1.cnarlatam.com/cinefamiliy/cinefamiliy/playlist.m3u8
+
+#EXTINF:-1 tvg-id="43 XtremaLatina.ar" tvg-name="Xtrema Latina" tvg-logo="https://i.imgur.com/swgrOiH.png" group-title="Movies", Xtrema Cine Latino | Movies
+https://stmv1.cnarlatam.com/cinelatino/cinelatino/playlist.m3u8
+
+#EXTINF:-1 tvg-id="44 XtremaSuspenso.ar" tvg-name="Xtrema Suspenso" tvg-logo="https://i.imgur.com/7Vwno5k.png" group-title="Movies", Xtrema Cine Suspenso | Movies
+https://stmv1.cnarlatam.com/cinesuspenso/cinesuspenso/playlist.m3u8
+
+#EXTINF:-1 tvg-id="45 XtremaTerror.ar" tvg-name="Xtrema Terror" tvg-logo="https://i.imgur.com/FcaTUym.png" group-title="Movies", Xtrema Cine Terror | Movies
+https://stmv1.cnarlatam.com/cineterror/cineterror/playlist.m3u8
+
+#EXTINF:-1 tvg-id="46 XtremaSeries.ar" tvg-name="Xtrema Series" tvg-logo="https://i.imgur.com/J7ZZIQN.png" group-title="Movies", Xtrema Series | Movies
+https://stmv1.cnarlatam.com/xtremaseries/xtremaseries/playlist.m3u8
+
+#EXTINF:-1 tvg-id="47 ViXJajaja.mx" tvg-name="ViX Jajaja" tvg-logo="https://i.imgur.com/UL1JtYb.png" group-title="Movies", ViX Jajaja | Movies
+https://d1406h321fcaxw.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-hlqsnnxad8rlq-ssai-prd/dist/samsungtv/310/hls/master/playlist.m3u8
+
+#EXTINF:-1 tvg-id="48 XtremaComedy.ar" tvg-name="Xtrema Comedy" tvg-logo="https://i.imgur.com/aNUufoq.png" group-title="Movies", Xtrema Cine Comedy | Movies
+https://stmv1.cnarlatam.com/cinecomedia/cinecomedia/playlist.m3u8
+
+#EXTINF:-1 tvg-id="49 Oasis RTV Trujillo" tvg-name="Oasis RTV Trujillo" tvg-logo="https://i.imgur.com/OdosnOZ.png" group-title="Movies", Oasis RTV | Movies
+https://7.innovatestream.pe:19360/oasisrtv/oasisrtv.m3u8
+
+#EXTINF:-1 tvg-id="50 CR TV" tvg-name="CR TV" tvg-logo="https://i2.paste.pics/ff4a1765643e8c760881b4ca5ed2da18.png" group-title="Movies", CR TV | Movies
+https://live.obslivestream.com/crtvmux/index.m3u8?PlaylistM3UCL
+
+#EXTINF:-1 tvg-id="00 juntoshd.tv" tvg-name="juntoshd.tv" tvg-logo="xxxxxx" group-title="Movies", juntos | Movies
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-juntos-distro/cc396f94-1280-4b73-a4d7-a9f5f4b30330/4.m3u8
+
+#EXTINF:-1 tvg-id="00 Tvfy" tvg-name="Tvfy" tvg-logo="xxxxxx" group-title="Movies", Tvfy | Movies
+https://daiconnect.com/live/hls/tvup/tvfy-rtromc/b5cdb4ef8611cd4e0aab3956c1a6eb94/.m3u8?ApPW=2033&ApPH=1017&USrGDPRC=&UGDPR=1&DLg=es&ApStURL=https%3A%2F%2Ftivify.tv&DAdID=%22cab31028-ada3-453d-9a85-30489bfc0b96%22&DAdIDT=sessionid&UUA=Mozilla%2F5.0+%28Macintosh%3B+Intel+Mac+OS+X+10_15_7%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F114.0.0.0+Safari%2F537.36&UIP=&ApNm=Tivify&ApV=3.24.4&DT=browser&DMk=WEBAPP&DMdl=Chrome&ApBdl=tivify.tv&DID=%22cab31028-ada3-453d-9a85-30489bfc0b96%22&tvfy_env=desktop&requestuid=cf0768aa-e238-48df-88bb-db2d55e49b5d
+
+#EXTINF:-1 tvg-id="00 TVS Retro En Vivo" tvg-name="TVS Retro En Vivo" tvg-logo="xxxxxx" group-title="Movies", TVS Retro En Vivo | Movies
+https://cdn.streamhispanatv.net:3531/live/tvsretrogtlive.m3u8
+
+#EXTINF:-1 tvg-id="00 Runtime Español En Vivo" tvg-name="Runtime Español En Vivo" tvg-logo="xxxxxx" group-title="Movies", Runtime Español En Vivo | Movies
+https://stream.ads.ottera.tv/cl/230702cih0mihra6jcm66k1tvg/854x480_1355200_2_f.m3u8?i=475_2649
+
+#EXTINF:-1 tvg-id="00 CINE.AR" tvg-name="CINE.AR" tvg-logo="xxxxxx" group-title="Movies", CINE.AR | Movies
+https://538d0bde28ccf.streamlock.net/live-cont.ar/cinear/chunklist_w801790084.m3u8
+
+#EXTINF:-1 tvg-id="00 Canela Cinema En Vivo" tvg-name="Canela Cinema En Vivo" tvg-logo="xxxxxx" group-title="Movies", Canela Cinema En Vivo | Movies
+https://stream.ads.ottera.tv/cl/230702cih0mi43patd43m18ft0/854x480_1355200_2_f.m3u8?i=475_3134
+
+#EXTINF:-1 tvg-id="00 Canela TV 2 En Vivo" tvg-name="Canela TV 2 En Vivo" tvg-logo="xxxxxx" group-title="Movies", Canela TV 2 En Vivo | Movies
+https://cnm-ctm-ro-roku.otteravision.com/cnm/ctm_ro/ctm_ro_480p.m3u8
+
+#EXTINF:-1 tvg-id="00 Onda Digital Tv En Vivo" tvg-name="Onda Digital Tv En Vivo" tvg-logo="xxxxxx" group-title="Regional", Onda Digital Tv En Vivo | Regional
+https://v4.tustreaming.cl/odtvgo/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="00 Mega Tv Bolivia En Vivo" tvg-name="Mega Tv Bolivia En Vivo" tvg-logo="xxxxxx" group-title="Movies", Mega Tv Bolivia En Vivo | Movies
+https://solo.disfrutaenlared.com:1936/tvcbba/tvcbba/chunklist_w952783113.m3u8
+
+#EXTINF:-1 tvg-id="51 ACSNetwork.pr" tvg-name="ACS Network" tvg-logo="https://i.imgur.com/7aIab2r.png" group-title="Movies Retro", ACS Network | Movies Retro
+https://vdo2.streamgato.us:3273/live/acsnetworktvlive.m3u8
+
+#EXTINF:-1 tvg-id="52 RetroPlus3.cl" tvg-name="Retro Plus 3" tvg-logo="https://i.imgur.com/i0rZsgG.png" group-title="Movies Retro", Retro Plus 3 | Movies Retro
+https://59f1cbe63db89.streamlock.net:1443/retroplussenal3/retroplussenal3/playlist.m3u8
+
+#EXTINF:-1 tvg-id="53 UniversTV.es" tvg-logo="https://i.imgur.com/EW2bfix.png" group-title="Movies Retro", Univers TV | Movies Retro
+https://cloud3.streaminglivehd.com:1936/universfaller/universfaller/playlist.m3u8
+
+#EXTINF:-1 tvg-id="00 HorrorFy" tvg-name="HorrorFy" tvg-logo="xxxxxx" group-title="Movies Retro", HorrorFy | Movies Retro
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-horrorfy-distro/85f03fc9-e435-42c9-b6af-b783c7de0b96/4.m3u8
+
+#EXTINF:-1 tvg-id="00 América TeVé En Vivo" tvg-name="América TeVé En Vivo" tvg-logo="xxxxxx" group-title="Movies Retro", América TeVé En Vivo | Movies Retro
+https://uni01rtmp.tulix.tv/americateve1/americateve1/chunklist_w1883608209.m3u8
+
+#EXTINF:-1 tvg-id="00 Canela Clásicos En Vivo" tvg-name="Canela Clásicos En Vivo" tvg-logo="xxxxxx" group-title="Movies Retro", Canela Clásicos En Vivo | Movies Retro
+https://stream.ads.ottera.tv/cl/230703cih106p01i2hi4247fv0/854x480_1355200_2_f.m3u8
+
+#EXTINF:-1 tvg-id="54 Tele2000.pe" tvg-name="Tele 2000 Ayacucho" tvg-logo="https://i.imgur.com/QEMBpdS.png" group-title="Movies", Tele2000 | Movies
+https://servilive.com:3126/live/tele2000live.m3u8
+
+#EXTINF:-1 tvg-id="55 Canal14Codazzi.co" tvg-name="Canal 14 Codazzi" tvg-logo="https://i.imgur.com/wNSUMhJ.png" group-title="Movies", Canal 14 Codazzi | Movies
+https://eu1.servers10.com:19360/8056/8056.m3u8
+
+#EXTINF:-1 tvg-id="56 Canal15DTP.hn" tvg-name="Canal 15 DTP" tvg-logo="https://i.imgur.com/QQNcob1.png" group-title="Movies", Canal 15 DTP | Movies
+https://emisoras.hn:8081/dtp/index.m3u8
+
+#EXTINF:-1 tvg-id="57 CibaenaTV.do" tvg-name="Cibaena TV" tvg-logo="https://i.imgur.com/iHjdckl.png" group-title="Movies Retro", Cibaeña TV | Movies Retro
+https://vsrv2.az-streamingserver.com:3958/live/cibaenatvlive.m3u8
+
+#EXTINF:-1 tvg-id="58 COCOTV.do" tvg-name="COCO TV" tvg-logo="https://i.imgur.com/CnAc7jU.png" group-title="Movies", COCO TV | Movies
+https://cloudflare.streamgato.us:3253/live/canalcocotvlive.m3u8
+
+#EXTINF:-1 tvg-id="59 CosmosTV.ar" tvg-name="Cosmos TV" tvg-logo="https://i0.wp.com/fmcosmos.com/wp-content/uploads/2021/11/COSMOS-TV.png" group-title="Movies", Cosmos TV  | Movies
+https://tv.mediacp.eu:19360/cosmos/cosmos.m3u8
+
+#EXTINF:-1 tvg-id="60 PulaTV.do" tvg-name="Pula TV" tvg-logo="https://i.imgur.com/8gSLJ2f.png" group-title="Movies", Pula TV | Movies
+https://vdo2.streamgato.us:3239/live/pulatvlive.m3u8
+
+#EXTINF:-1 tvg-id="61 RNTelevision.pe" tvg-name="RN Television Yurimaguas" tvg-logo="https://i.imgur.com/oFGiW7u.png" group-title="Movies", RN Televisión | Movies
+https://multimedia.tmcreativos.com:1936/wsgzmqbxse/wsgzmqbxse/playlist.m3u8
+
+#EXTINF:-1 tvg-id="62 TelesurIlo.pe" tvg-name="Tele sur Ilo" tvg-logo="https://i.imgur.com/bbhgIN4.png" group-title="Movies", Telesur | Movies
+https://1667517699.rsc.cdn77.org/hls/ilo.m3u8
+
+#EXTINF:-1 tvg-id="63 Cajamarca TV" tvg-name="Cajamarca TV" tvg-logo="https://i.imgur.com/pC57NYv.png" group-title="Movies", Cajamarca TV | Movies
+https://ca2.inka.net.pe/cajamarcatv/index.m3u8
+
+#EXTINF:-1 tvg-id="64 TelesurMoquegua.pe" tvg-name="Telesur Moquegua" tvg-logo="https://i.imgur.com/bbhgIN4.png" group-title="Movies", Telesur | Movies
+https://1667517699.rsc.cdn77.org/hls/moquegua.m3u8
+
+#EXTINF:-1 tvg-id="65 Telecolor TV" tvg-name="Telecolor TV" tvg-logo="https://i2.paste.pics/35c791e364c3adb7c6c2ef98504041a0.png" group-title="Movies", Telecolor TV | Movies
+https://live.obslivestream.com/telecolormux/index.m3u8?PlaylistM3UCL
+
+#EXTINF:-1 tvg-id="66 BHTV" tvg-name="BHTV" tvg-logo="https://lh3.googleusercontent.com/-8cyoc0mjlnQ/Xxzwf_eZYkI/AAAAAAAA3bE/Fl3har_s5II86AuCsfK_FRQJz6dXMrK0gCK8BGAsYHg/s0/2020-07-25.png" group-title="Movies", BHTV | Movies
+http://cdn2.ujjina.com:1935/iptvbhtv/livebhtvtv/playlist.m3u8?PlaylistM3UCL
+
+#EXTINF:-1 tvg-id="67 Hechicera TV" tvg-name="Hechicera TV" tvg-logo="https://lh3.googleusercontent.com/-LBfErrZhDc0/XxzwqzgjMeI/AAAAAAAA3bI/HllaPXeqeGcCJFcSxg64LMBpAGFJk5EEACK8BGAsYHg/s0/2020-07-25.png" group-title="Movies", Hechicera TV | Movies
+https://video.misistemareseller.com:443/corporationhc/corporationhc/playlist.m3u8?PlaylistM3UCL
+
+#EXTINF:-1 tvg-id="68 JuntosTV.us" tvg-name="Juntos TV" tvg-logo="https://i.imgur.com/dgMZLC2.png" group-title="Series", Juntos | Series
+https://olympusamagi.pc.cdn.bitgravity.com/Juntos-roku/master.m3u8
+
+#EXTINF:-1 tvg-id="69 adultswim.com" tvg-logo="adultswim.com" group-title="Series", Adult Swim  | Series
+https://adultswim-vodlive.cdn.turner.com/live/daily_animated_1/stream.m3u8
+
+#EXTINF:-1 tvg-id="70 LaRosadeGuadalupe.us" tvg-name="La Rosa de Guadalupe" tvg-logo="https://i.imgur.com/tK9zOgo.png" group-title="Series", La Rosa de Guadalupe | Series
+https://linear-344.frequency.stream/dist/vix/344/hls/master/playlist.m3u8
+
+#EXTINF:-1 tvg-id="71 XtremaRetroSeries.ar" tvg-name="X trema Retro Series" tvg-logo="https://i.imgur.com/ejBa7n3.png" group-title="Retro Series", Xtrema Retro Series | Series Retro
+https://stmv1.cnarlatam.com/xtremaretroseries/xtremaretroseries/playlist.m3u8
+
+#EXTINF:-1 tvg-id="72 seotv7.bo" tvg-name="seotv7" tvg-logo="https://i.imgur.com/aTcJ5p3.png" group-title="Series Retro", SEO TV 7 | Series Retro
+https://live.seo.tv.bo/live/7SEO.m3u8
+
+#EXTINF:-1 tvg-id="73 IxchiguanEstereoTV.gt" tvg-name="Ixchiguan Estereo TV" tvg-logo="https://i.imgur.com/FMrB17k.png" group-title="Series Retro", Canal 9 Ixchiguán | Series Retro
+https://cdn.streamhispanatv.net:3859/live/ixchiguanlive.m3u8
+
+#EXTINF:-1 tvg-id="74 TeloCuentoyQue.ar" tvg-name="Telo Cuento y Que" tvg-logo="https://i.imgur.com/SWh8ZiH.png" group-title="Documental",Te Lo Cuento | Documental
+https://stmv1.cnarlatam.com/telocuento/telocuento/playlist.m3u8
+
+#EXTINF:-1 tvg-id="75 El Histonauta" tvg-name="El Histonauta" tvg-logo="https://i.imgur.com/H4SFkx6.png" group-title="Documental", El Histonauta | Documental
+https://stmv1.cnarlatam.com/elhistonauta/elhistonauta/playlist.m3u8
+
+#EXTINF:-1 tvg-id="00 Milennio Tv En Vivo" tvg-name="Milennio Tv En Vivo" tvg-logo="xxxxxx" group-title="Documental", Milennio Tv En Vivo | Documental
+https://videostream.shockmedia.com.ar:19360/milenniotv/milenniotv.m3u8
+
+#EXTINF:-1 tvg-id="76 PlatziTV.es" tvg-name="Platzi TV" tvg-logo="https://i.imgur.com/vEzeqHP.png" group-title="Education", Platzi TV | Education
+https://mdstrm.com/live-stream-playlist/629a63ae8df27c082901f78b.m3u8
+
+#EXTINF:-1 tvg-id="77 XtremaCartoons.ar" tvg-name="Xtrema Cartoons" tvg-logo="https://i.imgur.com/X2d8y4e.png" group-title="Kids", Xtrema Cartoons | Kids
+https://stmv1.cnarlatam.com/cineinfantil/cineinfantil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="78 XtremaRetroCartoons.ar" tvg-name="Xtrema Retro Cartoons" tvg-logo="https://i.imgur.com/60ylWbQ.png" group-title="Kids", Xtrema Retro Cartoons | Kids
+https://stmv1.cnarlatam.com/retroinfantil/retroinfantil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="79 EnerGeekFanpop.cl" tvg-name="Ener Geek Fanpop" tvg-logo="https://i.imgur.com/AdsItgE.png" group-title="Kids", EnerGeek Fanpop | Kids
+https://wifispeed.trapemn.tv:1936/infantil/energeek-2/playlist.m3u8
+
+#EXTINF:-1 tvg-id="80 Impacto Television" tvg-name="Impacto Television" tvg-logo="https://i.imgur.com/bkpCGP6.png" group-title="Kids", Impacto Televisión | Kids
+https://cloudvideo.servers10.com:8081/impactotv/index.m3u8
+
+#EXTINF:-1 tvg-id="81 seotv2kids.bo" tvg-name="seotv2kids" tvg-logo="https://i.imgur.com/BC0Ii7i.png" group-title="Kids", SEO TV 2 Kids | Kids
+https://live.seo.tv.bo/live/2SEO.m3u8
+
+#EXTINF:-1 tvg-id="82 LatinoKidsTV.uy" tvg-name="Latino Kids TV" tvg-logo="https://i.imgur.com/VEk5aJ6.png" group-title="Kids", LatinoKids | Kids
+https://6362ca6f1fc28.streamlock.net/8062/8062/playlist.m3u8
+
+#EXTINF:-1 tvg-id="83 MDATelevision.ve" tvg-name="MDA Television" tvg-logo="https://i.imgur.com/AlY38PN.png" group-title="Kids", MDA Televisión | Kids
+https://vcp.myplaytv.com/mdatv/mdatv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="84 RCNMas.co" tvg-name="RCN Mas" tvg-logo="https://i.imgur.com/MJzuRAN.png" group-title="Entertainment", RCN Más | Entertainment
+https://rcntv-rcnmas-1-us.plex.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="85 seotv3novelas.bo" tvg-name="seotv3novelas" tvg-logo="https://i.imgur.com/aTcJ5p3.png" group-title="Novelas", SEO TV 3 Novelas | Novelas
+https://live.seo.tv.bo/live/3SEO.m3u8
+
+#EXTINF:-1 tvg-id="86 TlnovelasEuropa.mx" tvg-name="Tl novelas Europa" tvg-logo="https://i.imgur.com/8AKW7Uu.png" group-title="Novelas", Tlnovelas Europa | Novelas
+https://televisa-televisa-1-it.samsung.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="87 ViXParejas.mx" tvg-name="ViX Parejas" tvg-logo="https://i.imgur.com/7wYK8m6.png" group-title="Novelas", ViX Parejas | Novelas
+https://d1f3q72l8uy8ur.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-z46pswns8dp1b-ssai-prd/dist/samsungtv/318/hls/master/playlist.m3u8
+
+#EXTINF:-1 tvg-id="88 LasEstrellasLatinAmerica.mx" tvg-name="Las Estrellas Latin America" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Las_Estrellas.svg/512px-Las_Estrellas.svg.png" group-title="Novelas", Las Estrellas Latin America | MX
+https://channel01.akamaized.net/hls/live/2022749/event01/index.m3u8
+
+#EXTINF:-1 tvg-id="89 TuMusicaHD.do" tvg-name="Tu Musica HD" tvg-logo="https://i.imgur.com/HnjUjog.png" group-title="Music", Tu Música HD | Music
+https://cloudflare.streamgato.us:3125/live/megacinetvlive.m3u8
+
+#EXTINF:-1 tvg-id="90 TVSistemasCuzco.pe" tvg-name="TV Sistemas Cuzco" tvg-logo="https://i.imgur.com/yo1oTIh.png" group-title="Music", TV Sistemas Cuzco | Music
+https://stmv1.voxhdnet.com/sistemascusco/sistemascusco/playlist.m3u8
+
+#EXTINF:-1 tvg-id="91 RetroPlus.cl" tvg-name="Retro Plus" tvg-logo="https://i.imgur.com/fkCasXI.png" group-title="Music Retro", Retro Plus HD | Music Retro
+https://59f1cbe63db89.streamlock.net:1443/retroplustv/_definst_/retroplustv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="92 ControversiaTV.pe" tvg-name="Controversia TV" tvg-logo="https://i.imgur.com/X7cPyP2.png" group-title="Music Retro", Controversia TV (Moyobamba) | Music Retro
+https://live.obslivestream.com/controversiatv/index.m3u8
+
+#EXTINF:-1 tvg-id="93 Controversia TV" tvg-name="Controversia TV" tvg-logo="https://i2.paste.pics/15caba439340da84feba0a02f409c8ca.png" group-title="Music Retro", Controversia TV | Music Retro
+https://live.obslivestream.com/controversiatv/index.m3u8?PlaylistM3UCL
+
+#EXTINF:-1 tvg-id="94 SuperClassicsTV.ar" tvg-name="Super Classics TV" tvg-logo="https://i.imgur.com/WlhCN7e.png" group-title="Music Retro", Super Classics TV | Music Retro
+https://stmv1.cnarlatam.com/megaclassics/megaclassics/playlist.m3u8
+
+#EXTINF:-1 tvg-id="95 RetroPlus.cl" tvg-name="Retro Plus" tvg-logo="https://i.imgur.com/fkCasXI.png" group-title="Music Retro", Retro Plus HD | Music Retro
+https://59f1cbe63db89.streamlock.net:1443/retroplustv/_definst_/retroplustv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="96 Now70s.uk" tvg-name="Now 70s" tvg-logo="https://i.imgur.com/qiCCX5X.png" group-title="Music Retro", Now 70's | Music Retro
+https://lightning-now70s-samsungnz.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="97 Now80s.uk" tvg-name="Now 80s" tvg-logo="https://i.imgur.com/YyPnMeB.png" group-title="Music Retro", Now 80's | Music Retro
+https://lightning-now80s-samsungnz.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="98 STZTelebista.es" tvg-name="STZ Telebista" tvg-logo="https://i.imgur.com/rFQuAEv.png" group-title="Music Retro", STZ Telebista | Music Retro
+https://cloudvideo.servers10.com:8081/stztelebista/index.m3u8
+
+#EXTINF:-1 tvg-id="99 TheRetroChannel.us" tvg-name="The Retro Channel" tvg-logo="https://i.imgur.com/t3i1HtE.jpg" group-title="Music Balada", The Retro Channel | Music Balada
+https://5fd5567570c0e.streamlock.net/theretrochannel/stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="100 Mundo de la Musica TV" tvg-name="Mundo de la Musica TV" tvg-logo="https://i2.paste.pics/a66f18725932decfa4fcf7f634060922.png" group-title="Music Retro", Mundo de la Musica TV | Music Retro
+https://tv.streaming-chile.com:1936/mundodelamusicatv/mundodelamusicatv/playlist.m3u8?PlaylistM3UCL
+
+#EXTINF:-1 tvg-id="101 MemoriasTV.co" tvg-name="Memorias TV" tvg-logo="https://i.imgur.com/RWC55w7.png" group-title="Music Retro", Memorias TV | Music Retro
+https://mediacp.us:8081/8002/index.m3u8
+
+#EXTINF:-1 tvg-id="102 RetroPlus2.cl" tvg-name="Retro Plus 2" tvg-logo="https://i.imgur.com/5G5kian.png" group-title="Music Retro", Retro Plus 2 HD | Music Retro
+https://59f1cbe63db89.streamlock.net:1443/retroplussenal2/_definst_/retroplussenal2/playlist.m3u8
+
+#EXTINF:-1 tvg-id="103 Memorias TV" tvg-name="Memorias TV" tvg-logo="https://i2.paste.pics/6679119106cf69f194a4d375b391a2a2.png" group-title="Music Retro", Memorias TV | Music Retro
+https://mediacp.us:8081/8002/index.m3u8?PlaylistM3UCL
+
+#EXTINF:-1 tvg-id="104 IQChannel.cr" tvg-name="IQ Channel" tvg-logo="https://i.imgur.com/hwuaomt.png" group-title="Music Balada", IQ Channel | Music Balada
+https://rtmp.info/iqtv/envivo/playlist.m3u8
+
+#EXTINF:-1 tvg-id="105 TVPop.cl" tvg-name="TV Pop" tvg-logo="https://i.imgur.com/hYiEwPe.png" group-title="Music Rock", TV Pop | Music Rock
+https://v4.tustreaming.cl/poptv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="106 Now90s.uk" tvg-name="Now 90s" tvg-logo="https://i.imgur.com/yo8lEu1.png" group-title="Music Rock", Now 90's | Music Rock
+https://lightning-now90s-samsungnz.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="107 cxtvenvivo.com" tvg-name="cxtv en vivo" tvg-logo="https://i.imgur.com/i3YwORV.png" group-title="Music Rock", rock-tv | Music Rock
+https://tv.broadcasting.ro/rocktv/85c83a80-4f71-4f2d-a8d6-43f676896bcb_output_0.m3u8
+
+#EXTINF:-1 tvg-id="108 VClassicTV.cl" tvg-name="V Classic TV" tvg-logo="https://i.imgur.com/WIACJSy.png" group-title="Music Rock", V Classic TV | Music Rock
+https://5eaccbab48461.streamlock.net:1936/8112/8112/playlist.m3u8
+
+#EXTINF:-1 tvg-id="109 AvangTV.us" tvg-name="Avang TV" tvg-logo="https://i.imgur.com/3I1n7fO.png" group-title="Music Rock", Avang TV | Music Rock
+https://hls.avang.live/hls/stream.m3u8
+
+#EXTINF:-1 tvg-id="110 PMCRoyale.ae" tvg-name="PMC Royale" tvg-logo="https://i.imgur.com/kuYMKgG.png" group-title="Music Electro", PMC Royale | Music Electro
+https://rohls.pmc.live/hls/stream.m3u8
+
+#EXTINF:-1 tvg-id="111 Tele7music.ro" tvg-name="Tele 7 music" tvg-logo="https://i.imgur.com/11b5W8u.png" group-title="Music Electro", Tele7music | Music Electro
+https://live.tele7music.ro/hls/stream/index.m3u8
+
+#EXTINF:-1 tvg-id="112 CantinaTV.ve" tvg-name="Cantina TV" tvg-logo="https://i.imgur.com/JWMk2fP.png" group-title="Music Electro", Cantina TV | Music Electro
+https://vcp.myplaytv.com/cantinatv/cantinatv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="113 88Stereo.cr" tvg-name="88 Stereo" tvg-logo="https://i.imgur.com/i3YwORV.png" group-title="Music Pop", 88 Stereo | Music Pop
+http://k3.usastreams.com/CableLatino/88stereo/playlist.m3u8
+
+#EXTINF:-1 tvg-id="114 VideoTourChannel.cr" tvg-name="Video Tour Channel" tvg-logo="https://i.imgur.com/zEi8eMC.png" group-title="Music Pop", Video Tour Channel | Music Pop
+http://k4.usastreams.com/videotour/videotour/playlist.m3u8
+
+#EXTINF:-1 tvg-id="115 GlobalTV.ar" tvg-name="Global TV" tvg-logo="https://i.imgur.com/z6srIMD.png" group-title="Music Pop", Global TV | Music Pop
+https://stmv.video.gmpro.top/global/global/playlist.m3u8
+
+#EXTINF:-1 tvg-id="116 MTV00s.uk" tvg-name="MTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f8/MTV_00s_remaster.png" group-title="Music Pop", MTV 00s | Music Pop
+http://195.24.89.82/VH1_SD/index.m3u8
+
+#EXTINF:-1 tvg-id="117 TMA.gp" tvg-name="TMA" tvg-logo="https://i.imgur.com/1iOAl2j.png" group-title="Music Pop", TMA | Music Pop
+http://hls.tmacaraibes.com/live/index.m3u8
+
+#EXTINF:-1 tvg-id="118 SenalUrbana.ar" tvg-name="Señal Urbana" tvg-logo="https://i.imgur.com/eiAeFmC.png" group-title="Music Pop", Señal Urbana | Music Pop
+https://videosenlared.fullstreaming.ar:3560/live/senialurbanalive.m3u8
+
+#EXTINF:-1 tvg-id="119 Best Cable Music" tvg-name="Best Cable Music" tvg-logo="https://lh3.googleusercontent.com/-5_iLG_7dCR4/XzxsvrIsFsI/AAAAAAAA4po/GH4DSrK2H5YVOskucpzMxMZeU417wwVvQCK8BGAsYHg/s0/2020-08-18.jpg" group-title="Music Pop", Best Cable Music | Music Pop
+https://ca2.inka.net.pe/best-Music-0011200000/index.m3u8?PlaylistM3UCL
+
+#EXTINF:-1 tvg-id="120 RadioInkaTV.pe" tvg-name="Radio Inka TV Abancay" tvg-logo="https://i.imgur.com/CNLFe3r.png" group-title="Music Pop", RadioInka | Music Pop
+https://tv.portalexpress.es:3175/hybrid/play.m3u8
+
+#EXTINF:-1 tvg-id="121 OndaRadio.cl" tvg-name="Onda Radio" tvg-logo="https://i.imgur.com/dZMsj10.png" group-title="Music Urban", Onda Radio TV | Music Urban
+https://tv.streaming-chile.com:1936/ondaradio/ondaradio/playlist.m3u8
+
+#EXTINF:-1 tvg-id="122 MasFM.ar" tvg-name="Mas FM" tvg-logo="https://i.imgur.com/TJ4gWQM.png" group-title="Music Urban", Más FM 95.9 | Music Urban
+https://vivo.solumedia.com:19360/masfm/masfm.m3u8
+
+#EXTINF:-1 tvg-id="123 GORTV.nl" tvg-name="GORTV" tvg-logo="https://i.imgur.com/zAFt893.png" group-title="Music Urban", GO-RTV | Music Urban
+http://593aed234297b.streamlock.net:1935/gotvsjoerd/gotvsjoerd/playlist.m3u8
+
+#EXTINF:-1 tvg-id="124 FirstMusicChannel.by" tvg-name="First Music Channel" tvg-logo="https://i.imgur.com/YdyFJrl.png" group-title="Music Urban", First Music Channel | Music Urban
+http://hz1.teleport.cc/HLS/HD.m3u8
+
+#EXTINF:-1 tvg-id="125 Top Latino" tvg-name="Top Latino" tvg-logo="https://i.imgur.com/8Hvk59N.png" group-title="Music Urban", Top Latino | Music Urban
+https://5cefcbf58ba2e.streamlock.net:543/tltvweb/latin-tv.stream/chunklist_w1009800447.m3u8
+
+#EXTINF:-1 tvg-id="126 XTVChachapoyas.pe" tvg-name="X TV Chachapoyas" tvg-logo="https://i.imgur.com/sJfB0AE.png" group-title="Music Urban", X TV | Music Urban
+https://vdo.grupolimalive.com:3087/live/xtvlive.m3u8
+
+#EXTINF:-1 tvg-id="127 TVPeruanisima.pe" tvg-name="TV Peruanisima" tvg-logo="https://i.imgur.com/m50qAVY.png" group-title="Music Salsa", TV Peruanísima | Salsa
+http://k4.usastreams.com/TVperuanisima/TVperuanisima/playlist.m3u8
+
+#EXTINF:-1 tvg-id="128 VamisaTV.pe" tvg-name="Vamisa TV" tvg-logo="https://i.imgur.com/jxHTl2g.png" group-title="Music Salsa", Vamisa TV | Salsa
+https://inliveserver.com:1936/9506/9506/playlist.m3u8
+
+#EXTINF:-1 tvg-id="129 Palmeras TV" tvg-name="Palmeras TV" tvg-logo="https://i2.paste.pics/9a94e3b8faaaf217451d643eeff53340.png" group-title="Music Tropical", Palmeras TV | Music Tropical
+https://video.ingenioperu.com:3982/live/palmerastvlive.m3u8?PlaylistM3UCL
+
+#EXTINF:-1 tvg-id="130 Millenium 109 FM" tvg-name="Millenium 109 FM" tvg-logo="https://i.imgur.com/sfNL6Bv.png" group-title="Music Tropical", Millenium 109 FM | Music Tropical
+https://videoserver.tmcreativos.com:19360/nqvnhujhrx/nqvnhujhrx.m3u8
+
+#EXTINF:-1 tvg-id="131 Tumpis TV" tvg-name="Tumpis TV" tvg-logo="https://i2.paste.pics/68f89669da2e29ccab89808b3da44231.png" group-title="Music Tropical", Tumpis TV | Music Tropical
+https://servilive.com:3531/stream/play.m3u8?PlaylistM3UCL
+
+#EXTINF:-1 tvg-id="132 Sanjuanera TV" tvg-name="Sanjuanera TV" tvg-logo="https://i2.paste.pics/ced9b0fa2a3cca58bcc8b85fe70f21df.png" group-title="Music Tropical", Sanjuanera TV | Music Tropical
+https://live.obslivestream.com/sanjuanera/index.m3u8?PlaylistM3UCL
+
+#EXTINF:-1 tvg-id="133 Karibeña" tvg-name="Karibeña" tvg-logo="https://lh3.googleusercontent.com/-3WtV-Ee6f4g/XzxuRNf0V2I/AAAAAAAA4p4/0FT0EgwqeLEXbJe0vEdCcTO5mhzkmq5qwCK8BGAsYHg/s0/2020-08-18.jpg" group-title="Music Tropical", Karibeña | Music Tropical
+https://cpliv3.onliv3.com:19360/karibenatv/karibenatv.m3u8?PlaylistM3UCL
+
+#EXTINF:-1 tvg-id="134 Mas Cumbia" tvg-name="Mas Cumbia" tvg-logo="https://lh3.googleusercontent.com/-ZJanuKXyOcE/XzxsUNGtJ_I/AAAAAAAA4pc/5GU3Dq6vXiEbaMuBLpf_vt_xGy7TSysMQCK8BGAsYHg/s0/2020-08-18.png" group-title="Music Tropical", Mas Cumbia | Music Tropical
+https://ca2.inka.net.pe/best-MasCum-0100210011/index.m3u8?PlaylistM3UCL
+
+#EXTINF:-1 tvg-id="135 88Stereo" tvg-name="88 Stereo" tvg-logo="https://i.imgur.com/i3YwORV.png" group-title="Music Tropical", 88 Stereo | Music Tropical
+http://k3.usastreams.com/CableLatino/88stereo/playlist.m3u8
+
+#EXTINF:-1 tvg-id="136 RetroPlus2.cl" tvg-name="Retro Plus 2" tvg-logo="https://i.imgur.com/5G5kian.png" group-title="Music Tropical", Retro Plus 2 HD | Music Tropical
+https://59f1cbe63db89.streamlock.net:1443/retroplussenal2/_definst_/retroplussenal2/playlist.m3u8
+
+#EXTINF:-1 tvg-id="137 Vision Musica TV" tvg-name="Vision Musica TV" tvg-logo="https://lh3.googleusercontent.com/-gaitJQnLecE/YKqXiP-BdgI/AAAAAAABCgE/Z-pquANdfv01XInDHZfgDzFf27LP7LOEACK8BGAsYHg/s512/2021-05-23.png" group-title="Music Tropical", Vision Musica TV | Music Tropical
+https://multimedia.tmcreativos.com:1936/visionmusica/visionmusica/playlist.m3u8?PlaylistM3UCL
+
+#EXTINF:-1 tvg-id="138 EuroIndieMusicChartTV.it" tvg-name="Euro Indie Music Chart TV" tvg-logo="https://i.imgur.com/lF0iofX.png" group-title="Music Tropical", Euro Indie Music Chart TV | Music Tropical
+http://178.33.224.197:1935/euroindiemusic/euroindiemusic/playlist.m3u8
+
+#EXTINF:-1 tvg-id="139 TurboMixRadioTV.pe" tvg-name="Turbo Mix Radio TV" tvg-logo="https://i.imgur.com/AsdBQa3.png" group-title="Music Tropical", Turbo Mix Radio TV | Music Tropical
+https://7.innovatestream.pe:19360/turbomixoficial/turbomixoficial.m3u8
+
+#EXTINF:-1 tvg-id="00 Visión Tv Música En Vivo" tvg-name="Visión Tv Música En Vivo" tvg-logo="xxxxxx" group-title="Music Tropical", Visión Tv Música En Vivo | Music Tropical
+https://multimedia.tmcreativos.com:1936/visionmusica/visionmusica/chunklist_w504677507.m3u8
+
+#EXTINF:-1 tvg-id="140 Best Cable TV" tvg-name="Best Cable TV" tvg-name="Best Cable TV" tvg-logo="https://i2.paste.pics/4d6efdcb678afcea5b225ed4b8ad2036.png" group-title="Regional", Best Cable TV | Regional
+https://ca2.inka.net.pe/BesTv-0011200001/index.m3u8?PlaylistM3UCL
+
+#EXTINF:-1 tvg-id="141 Mega TV" tvg-name="Mega TV Arequipa" tvg-logo="https://i.imgur.com/q34E9V4.png" group-title="Regional", Mega TV | Regional
+https://hls.servidor.stream/storage/megatv.m3u8
+
+#EXTINF:-1 tvg-id="142 Cultura 24 TV" tvg-name="Cultura 24 TV" tvg-logo="https://lh3.googleusercontent.com/-tyIk1Zn_9b4/XoKD7ngkdjI/AAAAAAAAxVU/YqFdEeFnHHEwerBlUrSu4ZiGRuhyh-uKACK8BGAsYHg/s0/2020-03-30.png" group-title="Regional", Cultura 24 TV | Regional
+http://vs8.live.opencaster.com/cultura24/smil:cultura24/playlist.m3u8?PlaylistM3UCL
+
+#EXTINF:-1 tvg-id="143 QTTelevision.pe" tvg-name="QT Television Cuzco" tvg-logo="https://i.imgur.com/xVcnmE3.png" group-title="Regional", QT Televisión | Regional
+https://servilive.com:3753/live/qosqotimeslive.m3u8
+
+#EXTINF:-1 tvg-id="144 SenalPeruTV.pe" tvg-name="Senal Peru TV" tvg-logo="https://i.imgur.com/1q0R6R9.png" group-title="Regional", Señal Perú TV | Regional
+https://livestream.perucast.com/hls/stream.m3u8
+
+#EXTINF:-1 tvg-id="145 Goresam TV" tvg-name="Goresam TV" tvg-logo="https://i2.paste.pics/2442044e1391e59708f00020c5e61198.png" group-title="Regional", Goresam TV | Regional
+https://stream.plixitv.live:443/goresamtv/goresamtv/playlist.m3u8?PlaylistM3UCL
+
+#EXTINF:-1 tvg-id="146 Uranio TV" tvg-name="Uranio TV" tvg-logo="https://i2.paste.pics/e59013ac35938a2f9c304485f031f255.png" group-title="Regional", Uranio TV | Regional
+https://live.obslivestream.com/uraniotv/index.m3u8?PlaylistM3UCL
+
+#EXTINF:-1 tvg-id="147 Via Alto Mayo" tvg-name="Via Alto Mayo" tvg-logo="https://i2.paste.pics/35046bd4f63cebcf522e4cd2981e262b.png" group-title="Regional", Via Alto Mayo | Regional
+https://live.obslivestream.com/viaaltomayomux/index.m3u8?PlaylistM3UCL
+
+#EXTINF:-1 tvg-id="148 Creo TV" tvg-name="Creo TV" tvg-logo="https://i.imgur.com/jCAmrwt.png" group-title="Regional", Creo TV | Regional
+https://srv1.mediastreamperu.com/creotv/creotv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="149 TVenLinea.pe" tvg-name="TV en Linea Cuzco" tvg-logo="https://i.imgur.com/txV8lw0.png" group-title="Regional", TV en Linea | Regional
+https://s1.tvdatta.com:3883/live/tvenlinealive.m3u8
+
+#EXTINF:-1 tvg-id="150 VisionSur.pe" tvg-name="VisionSur Arequipa" tvg-logo="https://i.imgur.com/AbZYWEQ.png" group-title="Regional", Vision Sur | Regional
+https://ott1.hdlatam.tv/live_abr/webtvVisionSur/playlist.m3u8
+
+#EXTINF:-1 tvg-id="151 TelesurCamana.pe" tvg-name="Telesur Camana" tvg-logo="https://i.imgur.com/bbhgIN4.png" group-title="Regional", Telesur | Regional
+https://1667517699.rsc.cdn77.org/hls/camana.m3u8
+
+#EXTINF:-1 tvg-id="152 Peru Channel" tvg-name="Peru Channel" tvg-logo="https://i2.paste.pics/96a94cdd7f44c9111cee19a30cb6e18d.png" group-title="Regional", Peru Channel | Regional
+https://stmv1.duvoxtv.com.br/peruchannel/peruchannel/playlist.m3u8?PlaylistM3UCL
+
+#EXTINF:-1 tvg-id="153 TV Cosmos 15.1" tvg-name="TV Cosmos 15.1" tvg-logo="https://i2.paste.pics/9176c235a22b9745bcc6e930b2a7e904.png" group-title="Regional", TV Cosmos 15.1 | Regional
+https://5790d294af2dc.streamlock.net:443/8134/8134/playlist.m3u8?PlaylistM3UCL
+
+#EXTINF:-1 tvg-id="154 seotv1fhd.bo" tvg-name="seotv1fhd" tvg-logo="https://i.imgur.com/aTcJ5p3.png" group-title="Regional", SEO TV 1 | Regional
+https://live.seo.tv.bo/live/1SEO.m3u8
+
+#EXTINF:-1 tvg-id="155 Genios TV" tvg-name="Genios TV" tvg-logo="https://i2.paste.pics/9872abc3f3190fc94f2d8b65f3f5cc38.png" group-title="Regional", Genios TV | Regional
+https://live.obslivestream.com/geniostvmux/index.m3u8?PlaylistM3UCL
